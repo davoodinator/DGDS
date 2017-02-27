@@ -1,0 +1,1 @@
+powershell -noexit -command "cd 'F:\SHTEEM\steamapps\common\Grim Dawn\database\records'"
